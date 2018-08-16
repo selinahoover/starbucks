@@ -84,7 +84,7 @@
 	margin: 0 auto;
 }
 
-
+.skip{font-size: 0; text-indent: -9999px; position: absolute; left:-9999px;}
 .billboard .caption a,
 .billboard .caption a i,
 .subscription a.start_btn,
